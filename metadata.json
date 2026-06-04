@@ -1,0 +1,59 @@
+{
+  "siteId": "rental-organization-plan",
+  "generatedAt": "2026-06-04T11:35:27.645789",
+  "categories": [
+    "beginner-rental-organization-plan",
+    "advanced-rental-organization-plan",
+    "tips-rental-organization-plan",
+    "history-rental-organization-plan",
+    "trending-rental-organization-plan",
+    "tutorials-rental-organization-plan"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-rental-organization-plan",
+      "category_name": "Beginner Rental Organization Plan"
+    },
+    {
+      "category_slug": "advanced-rental-organization-plan",
+      "category_name": "Advanced Rental Organization Plan"
+    },
+    {
+      "category_slug": "tips-rental-organization-plan",
+      "category_name": "Rental Organization Plan Tips"
+    },
+    {
+      "category_slug": "history-rental-organization-plan",
+      "category_name": "Rental Organization Plan History"
+    },
+    {
+      "category_slug": "trending-rental-organization-plan",
+      "category_name": "Trending Rental Organization Plan"
+    },
+    {
+      "category_slug": "tutorials-rental-organization-plan",
+      "category_name": "Rental Organization Plan Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "rental-organization-plan",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "sidebar",
+    "site_title": "Rental Organization Plan Central",
+    "articles_per_row": 2
+  }
+}

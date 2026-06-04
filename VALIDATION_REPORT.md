@@ -1,0 +1,88 @@
+# Validation Report - rental-organization-plan
+
+Generated: 2026-06-04T11:35:27.645473
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Rental Organization Plan
+- ✓ Article word count OK: Beginner Rental Organization Plan: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Rental Organization Plan
+- ✓ Article word count OK: Beginner Rental Organization Plan Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Rental Organization Plan
+- ✓ Article word count OK: Beginner Rental Organization Plan in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Rental Organization Plan
+- ✓ Article word count OK: Common Mistakes in Beginner Rental Organization Plan
+- ✓ Article word count OK: Beginner Rental Organization Plan for Beginners
+- ✓ Article word count OK: Advanced Beginner Rental Organization Plan Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Rental Organization Plan
+- ✓ Article word count OK: Advanced Rental Organization Plan: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Rental Organization Plan
+- ✓ Article word count OK: Advanced Rental Organization Plan Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Rental Organization Plan
+- ✓ Article word count OK: Advanced Rental Organization Plan in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Rental Organization Plan
+- ✓ Article word count OK: Common Mistakes in Advanced Rental Organization Plan
+- ✓ Article word count OK: Advanced Rental Organization Plan for Beginners
+- ✓ Article word count OK: Advanced Advanced Rental Organization Plan Techniques
+- ✓ Article word count OK: The Ultimate Guide to Rental Organization Plan Tips
+- ✓ Article word count OK: Rental Organization Plan Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Rental Organization Plan Tips
+- ✓ Article word count OK: Rental Organization Plan Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Rental Organization Plan Tips
+- ✓ Article word count OK: Rental Organization Plan Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Rental Organization Plan Tips
+- ✓ Article word count OK: Common Mistakes in Rental Organization Plan Tips
+- ✓ Article word count OK: Rental Organization Plan Tips for Beginners
+- ✓ Article word count OK: Advanced Rental Organization Plan Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Rental Organization Plan History
+- ✓ Article word count OK: Rental Organization Plan History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Rental Organization Plan History
+- ✓ Article word count OK: Rental Organization Plan History Tips and Best Practices
+- ✓ Article word count OK: The History of Rental Organization Plan History
+- ✓ Article word count OK: Rental Organization Plan History in 2026: Current Trends
+- ✓ Article word count OK: Future of Rental Organization Plan History
+- ✓ Article word count OK: Common Mistakes in Rental Organization Plan History
+- ✓ Article word count OK: Rental Organization Plan History for Beginners
+- ✓ Article word count OK: Advanced Rental Organization Plan History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Rental Organization Plan
+- ✓ Article word count OK: Trending Rental Organization Plan: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Rental Organization Plan
+- ✓ Article word count OK: Trending Rental Organization Plan Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Rental Organization Plan
+- ✓ Article word count OK: Trending Rental Organization Plan in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Rental Organization Plan
+- ✓ Article word count OK: Common Mistakes in Trending Rental Organization Plan
+- ✓ Article word count OK: Trending Rental Organization Plan for Beginners
+- ✓ Article word count OK: Advanced Trending Rental Organization Plan Techniques
+- ✓ Article word count OK: The Ultimate Guide to Rental Organization Plan Tutorials
+- ✓ Article word count OK: Rental Organization Plan Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Rental Organization Plan Tutorials
+- ✓ Article word count OK: Rental Organization Plan Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Rental Organization Plan Tutorials
+- ✓ Article word count OK: Rental Organization Plan Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Rental Organization Plan Tutorials
+- ✓ Article word count OK: Common Mistakes in Rental Organization Plan Tutorials
+- ✓ Article word count OK: Rental Organization Plan Tutorials for Beginners
+- ✓ Article word count OK: Advanced Rental Organization Plan Tutorials Techniques
+- ✓ Ad configuration validated
